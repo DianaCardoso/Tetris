@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="agoravai" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="agoravai" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Unit filename="Tetris visual/Main.cpp" />
+		<Unit filename="Tetris visual/Peca.cpp" />
+		<Unit filename="Tetris visual/Peca.h" />
+		<Unit filename="Tetris visual/Tela.cpp" />
+		<Unit filename="Tetris visual/Tela.h" />
+		<Unit filename="Tetris visual/Tetris.cpp" />
+		<Unit filename="Tetris visual/Tetris.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

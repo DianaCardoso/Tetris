@@ -1,0 +1,29 @@
+﻿  Tetris.cpp
+c:\users\orley\desktop\asistencia\diana\tetris\tetris visual - copy\tetris visual\tetris.cpp(14): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\orley\desktop\asistencia\diana\tetris\tetris visual - copy\tetris visual\tetris.cpp(30): warning C4566: character represented by universal-character-name '\u2593' cannot be represented in the current code page (1252)
+c:\users\orley\desktop\asistencia\diana\tetris\tetris visual - copy\tetris visual\tetris.cpp(35): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\orley\desktop\asistencia\diana\tetris\tetris visual - copy\tetris visual\tetris.cpp(93): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\orley\desktop\asistencia\diana\tetris\tetris visual - copy\tetris visual\tetris.cpp(105): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\orley\desktop\asistencia\diana\tetris\tetris visual - copy\tetris visual\tetris.cpp(107): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\orley\desktop\asistencia\diana\tetris\tetris visual - copy\tetris visual\tetris.cpp(111): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\orley\desktop\asistencia\diana\tetris\tetris visual - copy\tetris visual\tetris.cpp(117): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\orley\desktop\asistencia\diana\tetris\tetris visual - copy\tetris visual\tetris.cpp(127): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\orley\desktop\asistencia\diana\tetris\tetris visual - copy\tetris visual\tetris.cpp(128): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\orley\desktop\asistencia\diana\tetris\tetris visual - copy\tetris visual\tetris.cpp(198): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\orley\desktop\asistencia\diana\tetris\tetris visual - copy\tetris visual\tetris.cpp(246): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\orley\desktop\asistencia\diana\tetris\tetris visual - copy\tetris visual\tetris.cpp(250): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\orley\desktop\asistencia\diana\tetris\tetris visual - copy\tetris visual\tetris.cpp(254): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  Tetris visual.vcxproj -> C:\Users\orley\Desktop\asistencia\diana\Tetris\Tetris visual - Copy\Debug\Tetris visual.exe
+  Tetris visual.vcxproj -> C:\Users\orley\Desktop\asistencia\diana\Tetris\Tetris visual - Copy\Debug\Tetris visual.pdb (Full PDB)
